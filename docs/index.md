@@ -1,4 +1,4 @@
 # グウェンノート
 
-[basic](./basic.md)
-[players](./players.md)
+- [basic](./basic.md)
+- [references](./references.md)
