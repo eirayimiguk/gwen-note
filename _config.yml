@@ -1,12 +1,1 @@
-remote_theme: sighingnow/jekyll-gitbook
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+theme: jekyll-theme-minimal
