@@ -1,4 +1,5 @@
 # グウェンノート
 
-- [basic](./basic.md)
+- [basic build](./basic.md)
+- [matchups](./matchups.md)
 - [references](./references.md)
